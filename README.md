@@ -97,7 +97,7 @@ The first stable release with OSINT and Discord tools is available!
 ```bash
 git clone https://github.com/stegman-ux/Butcher-Tools.git
 cd Butcher-Tools
-pip install -r requirements.txt
+python setup.py
 python butcher.py
 ```
 
