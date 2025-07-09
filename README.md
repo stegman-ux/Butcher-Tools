@@ -73,9 +73,13 @@ The first stable release with OSINT and Discord tools is available!
 
 <div align="center">
 
-| Main Menu                               | OSINT Tools Menu                          |
-|----------------------------------------|------------------------------------------|
-| ![Main Menu](./Asset/Main_23.06.jpg) | ![OSINT Menu](./Asset/Osint_23.06.jpg) |
+## 📸 Screenshots
+
+<div align="center">
+
+| Main Menu                               | OSINT Tools Menu                          | Discord Tools Menu                      |
+|----------------------------------------|------------------------------------------|---------------------------------------|
+| ![Main Menu](./Asset/Main_23.06.jpg)  | ![OSINT Menu](./Asset/Osint_23.06.jpg)  | ![Discord Menu](./Asset/Discord.jpg) |
 
 </div>
 
