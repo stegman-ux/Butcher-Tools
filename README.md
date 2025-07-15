@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/stegman-ux/Butcher-Tools)
+![License](https://img.shields.io/github/license/stegman-ux/Butcher-Tools)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+
 # 🚨 Butcher-Tools 🚨
 
 > **All-in-One OSINT & Automation Toolkit**  
