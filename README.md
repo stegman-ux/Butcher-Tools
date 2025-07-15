@@ -1,6 +1,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/stegman-ux/Butcher-Tools)
 ![License](https://img.shields.io/github/license/stegman-ux/Butcher-Tools)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+[size](https://camo.githubusercontent.com/cc56fb4b2902601a6b7b09068e77fe5009fefb7f985bb91b1bc1f8ffe1c8d114/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f6c6f7879306465762f52656454696765722d546f6f6c733f6c6162656c3d53697a6526636f6c6f723d613830353035)
 
 # 🚨 Butcher-Tools 🚨
 
