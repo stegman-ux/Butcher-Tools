@@ -8,3 +8,4 @@ instaloader
 cryptography
 discord.py
 clear
+python-whois
